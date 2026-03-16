@@ -56,5 +56,6 @@ The Logistic Regression model achieved around 78% accuracy, while the Random For
 
 ## Author
 
-Tanu Sharma
+Vanshika sharma
+
 Aspiring Data Analyst / Data Scientist
